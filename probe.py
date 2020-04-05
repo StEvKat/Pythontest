@@ -1,5 +1,5 @@
-a=25
-b=25
+a=10
+b=10
 x=a+b
 print(x)
 print(type(x))
