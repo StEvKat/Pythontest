@@ -1,5 +1,5 @@
-a=1
-b=3
-c=a+b
-print(c)
-print(type(c))
+a=25
+b=25
+x=a+b
+print(x)
+print(type(x))
